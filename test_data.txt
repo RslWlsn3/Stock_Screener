@@ -1,0 +1,257 @@
+ADBE
+Revenue growth: 22.8
+Earning growth: 35.2
+PE: 42.9
+rev_17: 9,030,008
+rev_16: 7,301,505
+
+ARE
+Revenue growth: 21.3
+Earning growth: 297.3
+PE: 26.6
+rev_17: 1,129,417
+rev_16: 921,522
+
+GOOGL
+Revenue growth: 21.5
+Earning growth: 36.5
+PE: 39.2
+rev_17: 110,855,000
+rev_16: 90,272,000
+
+GOOG
+Revenue growth: 21.5
+Earning growth: 36.5
+PE: 38.9
+rev_17: 110,855,000
+rev_16: 90,272,000
+
+ADI
+Revenue growth: 3.6
+Earning growth: 24.5
+PE: 21.5
+rev_17: 6,200,942
+rev_16: 5,107,503
+
+BLL
+Revenue growth: 1.3
+Earning growth: 22.9
+PE: 34.1
+rev_17: 10,983,000
+rev_16: 9,061,000
+
+COG
+Revenue growth: 42.1
+Earning growth: 595.6
+PE: 43.8
+rev_17: 1,747,293
+rev_16: 1,194,627
+
+CBOE
+Revenue growth: 4.2
+Earning growth: 22.0
+PE: 21.1
+rev_17: 2,229,100
+rev_16: 703,100
+
+CNC
+Revenue growth: 34.5
+Earning growth: -90.7
+PE: 24.2
+rev_17: 45,807,000
+rev_16: 37,688,000
+
+CHTR
+Revenue growth: 4.1
+Earning growth: 927.1
+PE: 7.3
+rev_17: 41,581,000
+rev_16: 29,003,000
+
+CVX
+Revenue growth: 31.5
+Earning growth: 107.3
+PE: 14.6
+rev_17: 127,485,000
+rev_16: 103,310,000
+
+XEC
+Revenue growth: 27.6
+Earning growth: 62.3
+PE: 8.9
+rev_17: 1,918,249
+rev_16: 1,257,345
+
+CTAS
+Revenue growth: 7.0
+Earning growth: 77.2
+PE: 19.8
+rev_17: 6,476,632
+rev_16: 5,323,381
+
+COP
+Revenue growth: 41.5
+Earning growth: 343.1
+PE: 12.2
+rev_17: 29,878,000
+rev_16: 23,745,000
+
+CPRT
+Revenue growth: 10.1
+Earning growth: 47.2
+PE: 25.3
+rev_17: 1,805,695
+rev_16: 1,447,981
+
+DE
+Revenue growth: 18.7
+Earning growth: 53.8
+PE: 20.0
+rev_17: 37,357,700
+rev_16: 29,070,700
+
+DVN
+Revenue growth: 32.3
+Earning growth: 1214.5
+PE: 5.4
+rev_17: 13,755,000
+rev_16: 10,157,000
+
+FANG
+Revenue growth: 77.6
+Earning growth: 115.1
+PE: 13.9
+rev_17: 1,193,347
+rev_16: 527,107
+
+ETFC
+Revenue growth: 20.1
+Earning growth: 93.9
+PE: 13.2
+rev_17: 2,534,000
+rev_16: 2,090,000
+
+EOG
+Revenue growth: 77.4
+Earning growth: 1084.5
+PE: 10.2
+rev_17: 11,287,588
+rev_16: 7,544,405
+
+FB
+Revenue growth: 32.9
+Earning growth: 9.1
+PE: 20.0
+rev_17: 40,653,000
+rev_16: 27,638,000
+
+HFC
+Revenue growth: 28.3
+Earning growth: 25.9
+PE: 6.1
+rev_17: 14,251,299
+rev_16: 10,535,700
+
+HBAN
+Revenue growth: 4.5
+Earning growth: 37.5
+PE: 9.3
+rev_17: 4,107,000
+rev_16: 3,326,000
+
+KEY
+Revenue growth: 3.0
+Earning growth: 32.4
+PE: 10.2
+rev_17: 6,026,000
+rev_16: 4,727,000
+
+MU
+Revenue growth: 16.3
+Earning growth: 23.0
+PE: 2.6
+rev_17: 30,391,000
+rev_16: 20,322,000
+
+NFX
+Revenue growth: 62.0
+Earning growth: 157.5
+PE: 5.4
+rev_17: 1,767,000
+rev_16: 1,472,000
+
+NUE
+Revenue growth: 30.4
+Earning growth: 165.5
+PE: 7.9
+rev_17: 20,252,393
+rev_16: 16,208,122
+
+NVDA
+Revenue growth: 20.7
+Earning growth: 46.8
+PE: 17.8
+rev_17: 9,714,000
+rev_16: 6,910,000
+
+OXY
+Revenue growth: 73.9
+Earning growth: 883.7
+PE: 11.8
+rev_17: 12,508,000
+rev_16: 10,090,000
+
+OKE
+Revenue growth: 16.8
+Earning growth: 89.0
+PE: 23.4
+rev_17: 12,173,907
+rev_16: 8,920,934
+
+PSX
+Revenue growth: 33.9
+Earning growth: 81.3
+PE: 6.3
+rev_17: 89,340,000
+rev_16: 70,925,000
+
+PWR
+Revenue growth: 14.4
+Earning growth: 39.5
+PE: 13.4
+rev_17: 9,466,478
+rev_16: 7,651,319
+
+SIVB
+Revenue growth: 34.7
+Earning growth: 84.9
+PE: 12.3
+rev_17: 1,885,296
+rev_16: 1,500,396
+
+ULTA
+Revenue growth: 16.2
+Earning growth: 25.3
+PE: 22.2
+rev_17: 5,884,506
+rev_16: 4,854,737
+
+VLO
+Revenue growth: 33.4
+Earning growth: 1.8
+PE: 6.9
+rev_17: 88,407,000
+rev_16: 70,166,000
+
+WYNN
+Revenue growth: 10.2
+Earning growth: 95.7
+PE: 17.1
+rev_17: 6,306,368
+rev_16: 4,466,297
+
+XYL
+Revenue growth: 7.7
+Earning growth: 23.8
+PE: 29.9
+rev_17: 4,707,000
