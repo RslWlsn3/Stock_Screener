@@ -1,3 +1,4 @@
+#this is just a play area for me to test out soup
 import urllib
 import urllib.request
 from bs4 import BeautifulSoup

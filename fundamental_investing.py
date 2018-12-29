@@ -20,7 +20,8 @@ def make_soup(url):
     soupdata = BeautifulSoup(thepage, "html.parser")
     return soupdata    
 
-def yahooKeyStats(stock):    
+#scrape wanted statistics from yahoo finace and then compare them to desired numbers 
+def yahooKeyStats(stock):        
     try:
         soup = make_soup('https://finance.yahoo.com/quote/' + stock +'/key-statistics')
         rev_growth = soup('table')[4].findAll('tr')[2].findAll('td')[1].string
