@@ -14,6 +14,7 @@ Russel_3000 = ['FLWS', 'FCCY', 'SRCE', 'FOXA', 'FOX', 'XXII', 'TWOU', 'DDD', 'MM
 'IMMU', 'IMH', 'IMPV', 'PI', 'INCY', 'ICD', 'IHC', 'IRT', 'IBCP', 'INDB', 'IBTX', 'ILPT', 'INFN', 'IPCC', 'IPI', 'XON', 'IIN', 'INTU', 'ISRG', 'IVC', 'IVZ', 'IVR', 'ISTR', 'ITG', 'ISBC', 'IRET', 'ITIC', 'NVTA', 'INVH', 'IO', 'IONS', 'IOVA', 'IPGP', 'IQV', 'IRMD', 'IRTC', 'IRDM', 'IRBT', 'IRM', 'IRWD', 'ISRL', 'STAR', 'ITI', 'ITRI', 'ITT', 'JJSF', 'JAX', 'JCOM', 'IDCC', 'TILE', 'INAP', 'IBOC', 'IGT', 'IP', 'INSW', 'ISCA', 'IPG', 'XENT', 'IBM', 'INTL', 'IFF', 'ITCI']
 
 def scrape_sp500():
+    """Scrape current sp500 companies from wikipedia"""
     data = pd.read_html('https://en.wikipedia.org/wiki/List_of_S%26P_500_companies')
     table = data[0]
     sliced_table = table[1:]
@@ -26,9 +27,9 @@ def make_soup(url):
     thepage = urllib.request.urlopen(url)
     soupdata = BeautifulSoup(thepage, "html.parser")
     return soupdata    
-
-#scrape wanted statistics from yahoo finace and then compare them to desired numbers 
-def yahooKeyStats(stock):        
+ 
+def yahooKeyStats(stock):
+    """scrape wanted statistics from yahoo finace and then compare them to desired numbers"""        
     try:        
         soup = make_soup('https://finance.yahoo.com/quote/' + stock +'/key-statistics')
         rev_growth = soup('table')[4].findAll('tr')[2].findAll('td')[1].string
@@ -53,8 +54,9 @@ def yahooKeyStats(stock):
         
     except Exception as e: 
         #print(e)
-        c=0              
+        pass              
 
+#get input from user and search selected index
 answer = input("1.sp500\n2.Russel3000")
 if int(answer) is 1:
     sp500 = scrape_sp500()

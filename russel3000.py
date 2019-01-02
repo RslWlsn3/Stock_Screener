@@ -1,4 +1,4 @@
-
+#scrape russel3000 index from a text file
 tickers = []
 
 def parse_rus3000():
